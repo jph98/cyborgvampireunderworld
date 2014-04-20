@@ -1,13 +1,15 @@
-Gameloop
-========
+Cyborg Vampire Underworld
+=========================
+
+Work in progress game based on Notch type 2d RPG.
 
 Todo
 ----
 
 Bitmasking and modifications to colours
 
-Source
-------
+Sources for Building This
+-------------------------
 
 https://github.com/vanZeben/2D-Game-Engine
 
